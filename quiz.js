@@ -10,7 +10,7 @@ var prompts = [{
     class: 'group1'
   },
   {
-    prompt: 'Your website has a bug in it, so you use premade code rather creating it from scratch.',
+    prompt: 'Your website has a bug in it, so you use premade code rather than creating it from scratch.',
     weight: [1, 0, 5, 0, 0, 2],
     class: 'group2'
   },

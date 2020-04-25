@@ -1,5 +1,5 @@
 // A personality quiz
-
+// Credit to SuperMechaCow
 // This is an array of objects that stores the personality trait that is prompted to the user and the weight for each prompt.
 // If a personality trait is considered more introverted, it will have a negative weight.
 // If a personlity trait is considered more extroverted, it will have a positive weight.
